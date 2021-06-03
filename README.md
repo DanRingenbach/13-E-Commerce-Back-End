@@ -6,6 +6,7 @@ For this project I was given the front end of an e-commerce application.  My rol
 
 - [Usage](#usage)
 - [Credits](#credits)
+- [Documentation](#documentation)
 - [License](#license)
 
 ## Usage
@@ -26,6 +27,9 @@ npm run start
 
 [Sequelize](https://www.npmjs.com/package/sequelize)
 
+## Documentation
+
+[Screen Recording](https://drive.google.com/file/d/1OCoL7GctNliguns3qCqb9yxNcVzcdFzx/view)
 
 ## License
 
